@@ -6,7 +6,7 @@
 <br><br>
 ## System Requirements
 To get started with development, you need to install few tools
-- git
+- git<br>
   `git` version 2.13.1 or higher. Download [git](https://git-scm.com/downloads) if you don't have it already.
 
 ## Screenshorts
