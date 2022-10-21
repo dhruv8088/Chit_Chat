@@ -52,3 +52,7 @@ To get started with development, you need to install few tools
 
 <img width="872" alt="2022-10-07 (1)" src="https://user-images.githubusercontent.com/96379277/194504953-f1d6144c-4f31-40b1-9ddd-c364c9a432de.png">
 
+## Issues
+Changes and additions are invited.
+
+It is recommened to first raise an issue and then do PR's and changes.
