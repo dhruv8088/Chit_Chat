@@ -34,6 +34,15 @@ To get started with development, you need to install few tools
   ```shell
   npm --version
   ```
+  
+  ## Getting started
+  
+  For getting the developmment enviornment 
+  
+  - Clone the repositry.
+   - Install all the required packages and depensies as in package.json.
+   - run both frontend and backend simontaneously
+   
 
 ## Screenshorts
 <br><br>
@@ -42,3 +51,4 @@ To get started with development, you need to install few tools
 <img width="960" alt="2022-10-07" src="https://user-images.githubusercontent.com/96379277/194505140-ddad4abc-67ec-4886-bf34-5f99d90d25ff.png">
 
 <img width="872" alt="2022-10-07 (1)" src="https://user-images.githubusercontent.com/96379277/194504953-f1d6144c-4f31-40b1-9ddd-c364c9a432de.png">
+
