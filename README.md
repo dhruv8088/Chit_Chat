@@ -1,6 +1,8 @@
 # Chit_Chat
 ## About
-This is the basic chat app. Here people can join the server and enter a room to chat. This is made using reactJs, nodeJs and expressJs.
+- This is the basic chat app. 
+- Here people can join the server and enter a room to chat. 
+- This is made using reactJs, nodeJs and expressJs.
 <br><br>
 ## Screenshorts
 <br><br>
